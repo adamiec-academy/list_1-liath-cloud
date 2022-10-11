@@ -1,5 +1,4 @@
 def cross(n):
-    def cross(n):
     up_and_down = " " * n + "*" * n + " " * n
     middle = "*" * 3 * n
 
