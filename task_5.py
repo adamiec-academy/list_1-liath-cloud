@@ -13,6 +13,3 @@ def factorial(n):
 
 
    print(" " * space_1 + str(n) + "! is " + " " * space_2 + str(digits) + " digits long")
-
-def report():
-    pass
