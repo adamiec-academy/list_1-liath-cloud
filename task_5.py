@@ -14,8 +14,7 @@ def factorial(n):
 
    print(" " * space_1 + str(n) + "! is " + " " * space_2 + str(digits) + " digits long")
     
-   return silnia
-
 
 def report():
-   pass
+    for j in range(101):
+        print(factorial(j))   
