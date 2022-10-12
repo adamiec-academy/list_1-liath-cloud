@@ -17,4 +17,4 @@ def factorial(n):
 
 def report():
     for j in range(101):
-        print(factorial(j))   
+        factorial(j)   
