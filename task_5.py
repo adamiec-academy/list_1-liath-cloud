@@ -13,3 +13,5 @@ def factorial(n):
 
 
    print(" " * space_1 + str(n) + "! is " + " " * space_2 + str(digits) + " digits long")
+    
+   return silnia
