@@ -12,8 +12,7 @@ def factorial(n):
    space_2 = 3 - len(str(digits))
 
 
-   print(" " * space_1 + str(n) + "! " + " is " + " " * space_2 + str(digits) + " digits long")
-
+   print(" " * space_1 + str(n) + "! is " + " " * space_2 + str(digits) + " digits long")
 
 def report():
     pass
